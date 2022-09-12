@@ -7,7 +7,7 @@ In *Part 1*, I collected only names as keywords to *the wikipedia url*.
 *Second Part* is scraping from wikipedia page of the movie.
 
 After scraping we need to clean collected dataset. 
-*Checking duplicates
-*Handling NaN values
-*Correcting data types
+*Checking duplicates*
+*Handling NaN values*
+*Correcting data types*
 
